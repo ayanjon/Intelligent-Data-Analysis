@@ -1,0 +1,14 @@
+# Анализ и манипуляция данными
+numpy
+pandas
+
+# Визуализация данных
+matplotlib
+seaborn
+
+# Машинное обучение и предобработка
+scikit-learn
+
+# Среда разработки
+jupyter
+ipykernel
